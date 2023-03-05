@@ -11,7 +11,8 @@ body {
 .content {
     padding: 68px 83px;
     margin: 0;
-    text-align: center
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
 }
 
 .container {
